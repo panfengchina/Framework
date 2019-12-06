@@ -1,0 +1,19 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+.settings
+.idea
+.metadata
+target
+classes
+.jupiter
+.project
+.classpath
+*.log
+*.DS_Store
+*.swp
+*.out
+*.iml
